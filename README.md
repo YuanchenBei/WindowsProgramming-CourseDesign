@@ -2,7 +2,7 @@
 暨南大学《Windows编程》课程设计-个人收支信息管理系统
 
 
-## 系统运行环境
+## 系统环境需求
 Windows10 64位操作系统
 
 Microsoft SQL Server 数据库环境

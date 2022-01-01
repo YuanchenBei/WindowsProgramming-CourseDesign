@@ -3,7 +3,7 @@
 
 
 ## 系统运行环境
-windows10 64 位操作系统
+Windows10 64位操作系统
 
 Microsoft SQL Server 数据库环境
 
